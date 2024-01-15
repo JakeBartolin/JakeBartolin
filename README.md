@@ -6,7 +6,7 @@ Hi there! My name's Jake. I'm a tech-nerd with a history of making loud noises t
 
 Looking for my music? [You'll want to check out my website here.](https://www.jakebartolin.com)
 
-Although I've been tinkering with Linux, Python, and various forms of self-hosting platforms for years, I never made the full leap into the professional world of IT and development until early 2023. Some of my earliest projects include a private Nextcloud instance hosted on a Linode VPS, and a small XNA game I made in high school. Sadly, the source code for that game is lost to time as my source control was as good back then 😅.
+I've been tinkering with Linux, Python, and various forms of self-hosting platforms for years. I'm a massive fan of Nextcloud and a supporter of Photoprism. Some of my earliest projects include a private Nextcloud instance hosted on a Linode VPS, and a small XNA game I made in high school. Sadly, the source code for that game is lost to time as my source control was as good back then 😅.
 
 I encourage you to take a look around, and feel free to DM me about any of the projects you see! 
 
